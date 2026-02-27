@@ -1,1 +1,1 @@
-its good project hust an front end 
+its good project hust an front end only
